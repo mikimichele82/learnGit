@@ -1,4 +1,6 @@
 questo è un file di prova
 Contiene la riga 1 sviluppata dal DEV1
 Sono il DEV 2 e aggingo questa riga
+Sono il DEV 1 e aggiungo un'altra riga
+Sono il DEV 1 non ho le modifiche di intellij e scrivo questa riga
 Sono il DEV 3 e aggiungo la quinta riga
