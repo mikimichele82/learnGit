@@ -1,3 +1,4 @@
 questo è un file di prova
 Contiene la riga 1 sviluppata dal DEV1
 Sono il DEV 2 e aggingo questa riga
+Sono il DEV 1 e aggiungo un'altra riga
